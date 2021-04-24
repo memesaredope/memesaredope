@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">👋, I'm spotelf13</h1>
+<h3 align="center">A Fullstack Developer</h3>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning more about **swift**
@@ -10,11 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-<h1 align="center">👋, I'm spotelf13</h1>
-<h3 align="center">A Fullstack Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
